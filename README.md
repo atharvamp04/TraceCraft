@@ -35,6 +35,11 @@ Global supply chains today suffer from opacity, inefficiencies, and a lack of ve
 4. *Consumer Transparency:* End-users scan the QR code to trace the entire journey—view source, certifications, handlers, and final delivery status—all via a sleek front-end dashboard.
 5. *Immutable Ledger:* All interactions are permanently stored on a shared ledger, eliminating data silos and fostering trust.
 
+## Videos
+
+- [AWS Deployment Video](https://www.loom.com/share/c9191020ce954dc9a683b670dd192997)
+- [Youtube Demonstartion Video](https://youtu.be/bHE3K-4kkTg))
+
 ## Key Features
 
 - 🚀 *Immutable Records:* Blockchain ensures tamper-proof tracking.
