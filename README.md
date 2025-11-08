@@ -38,7 +38,7 @@ Global supply chains today suffer from opacity, inefficiencies, and a lack of ve
 ## Videos
 
 - [AWS Deployment Video](https://www.loom.com/share/c9191020ce954dc9a683b670dd192997)
-- [Youtube Demonstartion Video](https://youtu.be/bHE3K-4kkTg))
+- [Youtube Demonstartion Video](https://youtu.be/bHE3K-4kkTg)
 
 ## Key Features
 
